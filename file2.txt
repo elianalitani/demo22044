@@ -1,1 +1,2 @@
-ini file2, format txt, yuk bisa yuk
+ini file2, format txt, line ini juga sudah diedit
+ini baris yang sudah diedit
